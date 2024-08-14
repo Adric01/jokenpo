@@ -44,7 +44,7 @@ function calcularEscolha(jog, comp){
     return 1;
   }
   else if (jog == 3 && comp == 3) {
-    return 3;
+    return 0;
   }
 }
 
